@@ -1,5 +1,5 @@
 <p align = "center">
-<img src="https://github.com/Evaldo-comp/Python-Mombaca/blob/main/banner.gif" widt="350px" height="320px">
+<img src="https://github.com/Evaldo-comp/EEEPCMG-POO/blob/main/ressources/BANNER.gif" widt="350px" height="320px">
 </p>
 
 Repositório destinado a organizar a disciplina de Linguagem de Programação I a ser ministrada para turma de Licenciatura em Computação da UECE_FECLI Campus avançado de Mombaça
