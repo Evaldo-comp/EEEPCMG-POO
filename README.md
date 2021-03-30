@@ -7,7 +7,7 @@ Repositório destinado a organizar a disciplina POO - Programação Orientada a 
 ## :snake: Aula 01
 
  * [Lista](https://github.com/Evaldo-comp/EEEPCMG-POO/blob/main/Aula01-02/Lista.md)
- * [Slide ](https://github.com/Evaldo-comp/Python-Mombaca/blob/main/Aula-01/SLIDE-AULA01.pdf)
+ * [Slide ](https://github.com/Evaldo-comp/EEEPCMG-POO/blob/main/Aula01-02/SLIDE-AULA01.pdf)
  
 
 
