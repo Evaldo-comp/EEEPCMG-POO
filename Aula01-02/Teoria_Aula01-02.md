@@ -81,5 +81,5 @@ pot = 2 ** 2
 
 
 ---
-:house:[Home](https://github.com/Evaldo-comp/Python-Mombaca)
+:house:[Home](https://github.com/Evaldo-comp/EEEPCMG-POO)
 ---
