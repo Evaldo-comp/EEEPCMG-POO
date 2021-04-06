@@ -1,4 +1,4 @@
-1- Sintaxe
+# Sintaxe
 
 Python possui algumas particularidades em comparação com outras linguagens, 
 as principais diferenças podem ser notadas no aprendizado de fundamentos da linguagem.
@@ -52,7 +52,9 @@ Alguns cuidados que devemos tomar na hora de nomear variáveis:
   
 
 #1valor = 12 # erro de sintaxe (nome iniciado com número)
+
 #v@lor = 12  # erro de sintaxe (nome com caractere especial)
+
 #classe = 12 #erro de sintaxe  (utilização de palavras chaves do Python)
 
 
@@ -62,13 +64,13 @@ Alguns cuidados que devemos tomar na hora de nomear variáveis:
 A comunidade segue alguns padrões para nomeação de variáveis com nomes compostos, esse padrão é um consenso da 
 comunidade e não uma obrigação da sintaxe, e pode variar de linguagem para linguagem. Veja alguns exemplos
 
-## Camel Case: primeira palavra com inicial minúscula e as demais com inicial maiúscula
+**Camel Case:** Primeira palavra com inicial minúscula e as demais com inicial maiúscula
 minhaNotaSemestral  = 8.0  
 
-## Pascal Case: todas as palavras com inicial maiúscula
+**Pascal Case:** Todas as palavras com inicial maiúscula
 MinhaNotaSemestral  = 8.0
 
-## Cada palavra inicia com letra minúscula e são separadas por underscore
+**Snake Case:** Cada palavra inicia com letra minúscula e são separadas por underscore
 minha_nota_semestral  = 8.0
  
 ---
@@ -77,13 +79,14 @@ minha_nota_semestral  = 8.0
 ## Comentários
 Os comentários podem ser de um ou mais múltiplas linhas para delimitar um cometários de uma linha usa-se o símbolo # para delimitar comentário de múltiplas linhas usa-se """ ou '''
 
+```python
 #Comentários não são exibidos e não são compilados
 '''
 os comentários
 também podem ser de múltiplas
 linhas
 '''
- 
+ ```
 --- 
 
 # Entrada e saída
@@ -106,7 +109,7 @@ type(idade)
 
 O valor de uma variável pode ser alterado utilizando uma conversão de tipo que chamamos de casting
 
-## Para que o dado de outro tipo seja coletado, é necessário fazer a conversão no ato da entrada
+Para que o dado de outro tipo seja coletado, é necessário fazer a conversão no ato da entrada
 
 ```python
 idade = int(input("digite sua idade"))
@@ -227,7 +230,6 @@ São três:
 - `or` : retorna False se os dois operandos forem Falsos
 - `not`: retorna a negação da sentença
 
-# Operadores lógicos:
 
 ```python
 num5 = 2
